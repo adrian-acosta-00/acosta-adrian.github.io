@@ -12,7 +12,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
     - name: Publications
     - name: Blog
 
