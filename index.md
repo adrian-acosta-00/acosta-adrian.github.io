@@ -12,5 +12,5 @@ profile_picture:
    
   I'm always seeking challenges, open to learning new things, and driven to make an impact. <br><br> 
   
-  I'll periodically post a blog about personal projects outside of my job here.
+  I'll periodically post updates on personal projects outside of my job here.
 </p>
