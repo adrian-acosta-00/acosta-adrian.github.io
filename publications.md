@@ -4,8 +4,9 @@ title: Publications
 slug: /publications
 ---
 
-<big> 2020 </big>
----
+<p style="font-size: 1.2em;">2020.</p>
+
+<hr>
 
 <span style="font-weight: bold">Underlayer effect on the soft magnetic, high frequency, and magnetostrictive properties of FeGa thin films.</span>
 <u>Acosta, Adrian</u>, Kevin Fitzell, Joseph D. Schneider, Cunzheng Dong, Zhi Yao, Ryan Sheil, Yuanxun Ethan Wang, Gregory P. Carman, Nian X. Sun, and Jane P. Chang. 
