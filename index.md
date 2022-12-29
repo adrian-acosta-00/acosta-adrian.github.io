@@ -6,9 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
-
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  I'm currently a Process Engineer in a Concept & Feasbility group at Lam Research in Fremont, CA. <br><br> 
+  
+  Before this, I completed my PhD in Chemical Engineering at UCLA in June of 2022. <br><br> 
+   
+  I'm always seeking challenges, open to learning new things, and driven to make an impact. <br><br> 
+  
+  I'll periodically share things from personal projects outside of my job here.
 </p>
