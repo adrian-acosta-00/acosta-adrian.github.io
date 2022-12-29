@@ -2,19 +2,10 @@
 layout: publications
 title: Publications
 slug: /publications
-items:
-  - title: My Interest 1
-    image:
-      src: /assets/img/publications/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
-    image:
-      src: /assets/img/publications/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
----
 
-This is an example of a "publications" page, displaying your publications, your interests, your projects.
+Underlayer effect on the soft magnetic, high frequency, and magnetostrictive properties of FeGa thin films.
+Acosta, Adrian, Kevin Fitzell, Joseph D. Schneider, Cunzheng Dong, Zhi Yao, Ryan Sheil, Yuanxun Ethan Wang, Gregory P. Carman, Nian X. Sun, and Jane P. Chang. 
+Journal of Applied Physics 128, no. 1 (2020): 013903.
+
 <br />
 <br />
