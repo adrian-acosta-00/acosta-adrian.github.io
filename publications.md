@@ -19,7 +19,7 @@ Michael Guevara De Jesus, Zhuyun Xiao, Maite Goiriena-Goikoetxea, Rajesh V. Chop
 <u>Adrian Acosta</u>, Kevin Fitzell, Joseph D. Schneider, Cunzheng Dong, Zhi Yao, Ryan Sheil, Yuanxun Ethan Wang, Gregory P. Carman, Nian X. Sun, and Jane P. Chang. 
 <i>Journal of Applied Physics</i> 128, no. 1 (2020): 013903.
 
-<br/><span style="font-weight: bold">Enhancing the soft magnetic properties of FeGa with a non-magnetic underlayer for microwave applications</span>.
+<span style="font-weight: bold">Enhancing the soft magnetic properties of FeGa with a non-magnetic underlayer for microwave applications</span>.
 <u>Adrian Acosta</u>, Kevin Fitzell, Joseph D. Schneider, Cunzheng Dong, Zhi Yao, Yuanxun Ethan Wang, Gregory P. Carman, Nian X. Sun, Jane P. Chang.
 <i>Applied Physics Letters</i> 116, no. 22 (2020): 222404.
 
