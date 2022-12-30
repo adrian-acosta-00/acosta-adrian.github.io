@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  I'm currently a Process Engineer in a Concept & Feasbility group at Lam Research in Fremont, CA. <br><br> 
+  I'm currently a Process Engineer in a Concept & Feasability group at Lam Research in Fremont, CA. <br><br> 
   
   Before this, I completed my PhD in Chemical Engineering at UCLA in June of 2022. <br><br> 
    
