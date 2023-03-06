@@ -50,3 +50,5 @@ exclude:
 
 # Used for defeating caching
 version: 1
+
+google_analytics: UA-257506992-1
